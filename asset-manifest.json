@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yukicoder-lazy-solving/static/css/main.a214d75b.css",
-    "main.js": "/yukicoder-lazy-solving/static/js/main.b1b6aa3e.js",
+    "main.js": "/yukicoder-lazy-solving/static/js/main.468d183d.js",
     "index.html": "/yukicoder-lazy-solving/index.html",
     "main.a214d75b.css.map": "/yukicoder-lazy-solving/static/css/main.a214d75b.css.map",
-    "main.b1b6aa3e.js.map": "/yukicoder-lazy-solving/static/js/main.b1b6aa3e.js.map"
+    "main.468d183d.js.map": "/yukicoder-lazy-solving/static/js/main.468d183d.js.map"
   },
   "entrypoints": [
     "static/css/main.a214d75b.css",
-    "static/js/main.b1b6aa3e.js"
+    "static/js/main.468d183d.js"
   ]
 }
