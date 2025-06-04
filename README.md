@@ -2,7 +2,7 @@
 
 [yukicoder lazy solving](https://Maruoka842.github.io/yukicoder-lazy-solving/) is a web application, to solve competitive programming problems on [yukicoder](https://yukicoder.me/) from smallest implementation size, written in TypeScript with React.
 
-Some components were constructed based on corresponding components of [AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems) and [yukicoder problems](https://github.com/iilj/yukicoder-problems).
+Some components were constructed based on corresponding components of [yukicoder problems](https://github.com/iilj/yukicoder-problems)（MIT License Copyright (c) 2020 iilj).
 
 This application uses [yukicoder API](https://petstore.swagger.io/?url=https://yukicoder.me/api/swagger.yaml).
 
